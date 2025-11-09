@@ -1,0 +1,10 @@
+{
+  "name": "@modsynth/routing",
+  "version": "0.1.0",
+  "description": "React Router routing module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Modsynth Team",
+  "license": "MIT",
+  "peerDependencies": {"react": "^18.0.0", "react-router-dom": "^6.0.0"}
+}
